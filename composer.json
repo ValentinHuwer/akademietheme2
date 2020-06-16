@@ -1,5 +1,6 @@
 {
     "name": "pando-media-gmbh/akademietheme",
+    "version": "1.0.0",
     "type": "typo3-cms-extension",
     "description": "",
     "homepage": "https://pandomedia.de",
